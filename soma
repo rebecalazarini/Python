@@ -1,0 +1,4 @@
+x = int(input("Digite o primeiro numero inteiro: "))
+y = int(input("Digite o segundo numero inteiro: "))
+z = x + y
+print("A soma desses numeros é:", z)
