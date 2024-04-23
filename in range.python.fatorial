@@ -1,3 +1,4 @@
+#fatorial (for i in range) em python#
 n = int(input("Digite um numero inteiro positivo: "))
 print("Calculo fatorial do numero: ")
 n_fat = 1
