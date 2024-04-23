@@ -1,3 +1,4 @@
+*Calcular fgts*
 nome = input("Digite o nome da pessoa")
 salario = float(input("digite o salario: "))
 fgts = salario * 0.08
