@@ -1,4 +1,4 @@
-*mostrar um numero positivo ou negativo (if ou else) em python*
+#mostrar um numero positivo ou negativo (if ou else) em python#
 numero = int(input("Digite um numero: "))
 if numero > 0:
    print("o numero é positivo", numero)
