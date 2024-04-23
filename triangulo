@@ -1,3 +1,4 @@
+#Determinar o nome do traiangulo pelos lados em pyhtn#
 L1 = int(input("Lado 1: "))
 L2 = int(input("Lado 2: "))
 L3 = int(input("Lado 3: "))
