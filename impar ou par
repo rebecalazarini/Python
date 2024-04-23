@@ -1,3 +1,4 @@
+#numero (par/impar em if ou else) em python#
 numero = int(input("Digite o numero inteiro))
 if numero % 2 ==0:
      print("O numero ", numero, "é par")
