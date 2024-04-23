@@ -1,3 +1,4 @@
+#comparação (maior/menor em if ou else) em python#
 num1 = int(input("Digite um numero inteiro: "))
 num2 = int(input("Digite um segundo inteiro: "))
 
