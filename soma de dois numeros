@@ -1,0 +1,14 @@
+# Soma de dois valores
+
+num1 = int(input('Digite o primeiro valor '))
+num2 = int(input('Digite o segundo valor '))
+total = num1 + num2
+print('A som dos valores é {}'.format(total))
+
+# outra maneira
+
+print('a soma entre {}'.format(num1)+' e {}'.format(num2)+' vale {}'.format(total))
+
+# ou
+
+print('A som entre {} e {} é {}'.format(num1, num2, total))
