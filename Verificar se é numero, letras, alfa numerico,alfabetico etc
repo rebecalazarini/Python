@@ -1,0 +1,23 @@
+# verificar se é numerico
+n = input('Digite um valor: ')
+print(n.isnumeric())
+
+# Verificar se é alfabetico
+n = input('Digite um valor: ')
+print(n.isalpha())
+
+# Verificar se é alfa numerico
+n = input('Digite um valor: ')
+print(n.isalnum())
+
+# verificar se todas as letras são maiúsculas
+n = input('Digite um valor: ')
+print(n.isupper())
+
+# Verificar se todas as letras são minusculas
+n = input('Digite um valor: ')
+print(n.isprintable())
+
+# verificar se pode ser impresso
+n = input('Digite um valor: ')
+print(n.islower())
